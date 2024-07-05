@@ -1,0 +1,2 @@
+# CopilotStudioinPowerAppsControl
+Copilot Studio で作成したチャットボットをPower Apps のコントロールとして埋め込むアプリです。レスポンシブデザインに対応しています。
