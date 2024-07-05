@@ -2,7 +2,7 @@
 Copilot Studio で作成したチャットボットをPower Apps のコントロールとして埋め込むアプリです。レスポンシブデザインに対応しています。
 
 
-~
+```
 - Chatbot1:
     Control: Chatbot
     Properties:
@@ -11,4 +11,4 @@ Copilot Studio で作成したチャットボットをPower Apps のコントロ
       AlignInContainer: =AlignInContainer.Center
       FillPortions: =1
       Width: =Parent.Width
-  ~
+```
